@@ -1,1 +1,2 @@
-# miscellaneous
+# Miscellaneous
+Understanding permissions
