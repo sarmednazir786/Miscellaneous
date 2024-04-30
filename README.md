@@ -12,7 +12,7 @@ Sometimes it's right in front of the eyes but you can't see it.
 
 ## Intended Learning and outcome:
 
-With this challenge, I was able to learn the importance of permissions and how to change them with respect to other users.
+With this challenge, I was able to learn the importance of permissions and how to change them with respect to other users as well as the importance of complex password.
 
 ## Solution: 
 
